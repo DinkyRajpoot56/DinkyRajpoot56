@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinkyrajpoot56" alt="dinkyrajpoot56" /></a> </p>
 
-- 🌱 I’m currently learning **C,C++,Java,Python,Javascript,HTML,CSS,MySQL,ReactJS**
+- 🌱 I’m currently working on **java web application and web development(ReactJs) **
 
 - 👨‍💻 All of my projects are available at [https://github.com/DinkyRajpoot56](https://github.com/DinkyRajpoot56)
 
