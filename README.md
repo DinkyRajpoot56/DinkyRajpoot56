@@ -10,7 +10,6 @@
 - 🌱 I’m currently working on **java web application and web development(ReactJs) **
 
 - 👨‍💻 All of my projects are available at [https://github.com/DinkyRajpoot56](https://github.com/DinkyRajpoot56)
-- file:///C:/Users/kush/Downloads/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.webp
 
 - 📫 How to reach me **dinkyrajpoot6@gmail.com**
 
