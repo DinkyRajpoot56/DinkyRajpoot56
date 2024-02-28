@@ -10,9 +10,9 @@
 - 🌱 I’m currently working on **java web application and web development(ReactJs) **
 
 - 👨‍💻 All of my projects are available at [https://github.com/DinkyRajpoot56](https://github.com/DinkyRajpoot56)
-- C:\Users\kush\Pictures\Hactoberfest1.png
 - 📫 How to reach me **dinkyrajpoot6@gmail.com**
-
+- ![image](https://github.com/DinkyRajpoot56/DinkyRajpoot56/assets/111672121/bf946400-8bf4-4b33-9aa8-c5e0eebe3bf8)
+- ![image](https://github.com/DinkyRajpoot56/DinkyRajpoot56/assets/111672121/bd50893c-7070-4d8a-9ebf-66e643ed6dad)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
