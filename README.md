@@ -2,8 +2,7 @@
 <h3 align="center">A passionate frontend and Backend Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw0W9JKSuV7rGLG9SJQbALQ6&ust=1682069146241000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMD97oGSuP4CFQAAAAAdAAAAABAE">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinkyrajpoot56&label=Profile%20views&color=0e75b6&style=flat" alt="dinkyrajpoot56" /> 
-<img src="file:///C:/Users/kush/Downloads/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.webp" alt="dinkyrajpoot56" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinkyrajpoot56&label=Profile%20views&color=0e75b6&style=flat" alt="dinkyrajpoot56" /> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinkyrajpoot56" alt="dinkyrajpoot56" /></a> </p>
@@ -11,6 +10,7 @@
 - 🌱 I’m currently working on **java web application and web development(ReactJs) **
 
 - 👨‍💻 All of my projects are available at [https://github.com/DinkyRajpoot56](https://github.com/DinkyRajpoot56)
+- file:///C:/Users/kush/Downloads/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.webp
 
 - 📫 How to reach me **dinkyrajpoot6@gmail.com**
 
