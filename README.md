@@ -16,7 +16,10 @@
 - ![image](https://github.com/DinkyRajpoot56/DinkyRajpoot56/assets/111672121/bf946400-8bf4-4b33-9aa8-c5e0eebe3bf8)
 - ![image](https://github.com/DinkyRajpoot56/DinkyRajpoot56/assets/111672121/bd50893c-7070-4d8a-9ebf-66e643ed6dad)
 - ![image](https://github.com/DinkyRajpoot56/DinkyRajpoot56/assets/111672121/df6bb462-6c6d-4a3a-9eee-7d7674d47589)
-- C:\Users\kush\Downloads\CodeChefBadge (1).png
+- ![CodeChefBadge (2)](https://github.com/user-attachments/assets/eea64621-4053-4519-8a20-f520861f19cd)
+- ![CodeChefBadge (1)](https://github.com/user-attachments/assets/ba51b652-d774-49a3-903e-ebd34ad9efc0)
+
+
 - [![An image of @dinkyrajpoot56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dinkyrajpoot56)](https://holopin.io/@dinkyrajpoot56)
 
 <h3 align="left">Connect with me:</h3>
