@@ -16,7 +16,8 @@
 - ![image](https://github.com/DinkyRajpoot56/DinkyRajpoot56/assets/111672121/bf946400-8bf4-4b33-9aa8-c5e0eebe3bf8)
 - ![image](https://github.com/DinkyRajpoot56/DinkyRajpoot56/assets/111672121/bd50893c-7070-4d8a-9ebf-66e643ed6dad)
 - ![image](https://github.com/DinkyRajpoot56/DinkyRajpoot56/assets/111672121/df6bb462-6c6d-4a3a-9eee-7d7674d47589)
-- "C:\Users\kush\Downloads\holopin.png"
+- ![image](https://github.com/user-attachments/assets/81a11a83-3fa6-4fe0-ab73-ae20a2706051)
+
 - ![CodeChefBadge (2)](https://github.com/user-attachments/assets/eea64621-4053-4519-8a20-f520861f19cd)
 - ![CodeChefBadge (1)](https://github.com/user-attachments/assets/ba51b652-d774-49a3-903e-ebd34ad9efc0)
 - ![CodeChefBadge](https://github.com/user-attachments/assets/3f154e06-02cf-49b9-9fd0-ef6168d03467)
